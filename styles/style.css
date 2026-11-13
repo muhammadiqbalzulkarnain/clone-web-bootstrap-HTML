@@ -1,0 +1,35 @@
+body {
+    font-family: "Open-Sans", sans-serif;
+}
+
+.hero {
+    background-color: #e7eeff;
+}
+
+.hero h1 {
+    font-size: 4em !important; /* 4 * 16px */
+}
+
+.hero p {
+    font-size: 1.5em; /* 1.5 * 16px*/
+}
+
+.cta {
+    background-color: #155dfc;
+    color: #fff;
+}
+
+.footer {
+    background-color: #101828;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.footer ul li {
+    list-style: none;
+}
+
+.footer ul li a {
+    text-decoration: none;
+}
